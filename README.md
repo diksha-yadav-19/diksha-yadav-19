@@ -32,8 +32,8 @@ Curious to see how many people have visited my profile? Here’s the count:
 
 ### Featured Repositories
 
-- 🚀 **[C/C++](https://github.com/diksha-yadav-19/cpp-projects)**: A collection of C and C++ examples and templates.
-- 🌐 **[MERN Stack Projects](https://github.com/diksha-yadav-19/mern-projects)**: Full-stack web applications developed using MongoDB, Express.js, React, and Node.js.
+- 🚀 **[C/C++](https://github.com/diksha-yadav-19/C-CPP)**: A collection of C and C++ examples and templates.
+- 🌐 **[MERN Stack Projects](https://github.com/diksha-yadav-19/Chat_Application)**: Full-stack web applications developed using MongoDB, Express.js, React, and Node.js.
 - 🐍 **[Python Projects](https://github.com/diksha-yadav-19/python-projects)**: My explorations and projects in Python, ranging from simple scripts to more complex applications.
 
 ---
