@@ -2,10 +2,10 @@
 
 ## 🙋‍♀️ About Me
 
-Hello! I'm **Diksha Yadav**, a versatile developer with a passion for creating engaging software and exploring new technologies. From game development to building full-stack web applications and now diving into Python, my journey in tech is ever-evolving.
+Hello! I'm **Diksha Yadav**, a versatile developer with a passion for creating engaging software and exploring new technologies. From building full-stack web applications and now diving into Python and Machine Learning, my journey in tech is ever-evolving.
 
 - 💻 **Current Focus**: Exploring Python and its vast ecosystem, enhancing my skills in data analysis, and building new projects.
-- 📖 **Learning Journey**: Transitioning from game development and MERN stack projects to Python programming and its applications.
+- 📖 **Learning Journey**: Transitioning from Full Stack Web development and MERN stack projects to Python programming and its applications.
 - 🎯 **Goals**: To leverage my diverse skills in impactful projects, contribute to open-source, and continuously learn and grow.
 
 ---
@@ -35,11 +35,6 @@ Curious to see how many people have visited my profile? Here’s the count:
 - 🚀 **[C/C++](https://github.com/diksha-yadav-19/cpp-projects)**: A collection of C and C++ examples and templates.
 - 🌐 **[MERN Stack Projects](https://github.com/diksha-yadav-19/mern-projects)**: Full-stack web applications developed using MongoDB, Express.js, React, and Node.js.
 - 🐍 **[Python Projects](https://github.com/diksha-yadav-19/python-projects)**: My explorations and projects in Python, ranging from simple scripts to more complex applications.
-
-### Recent Contributions
-
-- 📌 **[Open Source Contributions](https://github.com/diksha-yadav-19/open-source)**: Contributions to various open-source projects and communities.
-- 💼 **[Professional Work](https://github.com/diksha-yadav-19/professional-work)**: A showcase of my professional projects and freelance work.
 
 ---
 
