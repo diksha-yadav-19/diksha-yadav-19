@@ -4,7 +4,7 @@
 
 Hello! I'm **Diksha Yadav**, a versatile developer with a passion for creating engaging software and exploring new technologies. From building full-stack web applications and now diving into Python and Machine Learning, my journey in tech is ever-evolving.
 
-- 💻 **Current Focus**: Exploring Python and its vast ecosystem, enhancing my skills in data analysis, and building new projects.
+- 💻 **Current Focus**: Exploring Python and its vast ecosystem, enhancing my skills in machine learning, and building new projects.
 - 📖 **Learning Journey**: Transitioning from Full Stack Web development and MERN stack projects to Python programming and its applications.
 - 🎯 **Goals**: To leverage my diverse skills in impactful projects, contribute to open-source, and continuously learn and grow.
 
