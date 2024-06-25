@@ -4,12 +4,10 @@
 
 Hello! I'm **Diksha Yadav**, a dedicated and versatile developer with a deep-seated passion for creating innovative software solutions and exploring cutting-edge technologies. My journey in tech spans from building robust full-stack web applications to diving into the intricacies of Python and Machine Learning.
 
-<!-- Adding Marquee for Highlighting Skills with Custom CSS -->
-<div style="padding: 10px; background-color: #f5f5f5; border: 2px solid #4CAF50; border-radius: 10px; margin-bottom: 20px;">
-  <marquee behavior="scroll" direction="left" scrollamount="7" style="font-size: 18px; color: #4CAF50;">
-    I'm a Frontend Developer | Backend Developer | Python and ML Enthusiast
-  </marquee>
-</div>
+<!-- Highlighting Skills without Marquee -->
+<p align="center">
+  <strong style="font-size: 18px; color: #4CAF50;">I'm a Frontend Developer | Backend Developer | Python and ML Enthusiast</strong>
+</p>
 
 - 💻 **Current Focus**: Mastering Python and its expansive ecosystem, refining my skills in machine learning, and developing innovative projects.
 - 📖 **Learning Journey**: Transitioning from Full Stack Web Development (MERN stack) to Python programming and its diverse applications.
@@ -49,17 +47,9 @@ Played a pivotal role in the **Placement Club** by:
 
 I actively engage with coding challenges and projects on various platforms to sharpen my skills and stay updated with the latest in technology:
 
-<div style="display: flex; justify-content: space-around; margin: 20px 0;">
-  <a href="https://leetcode.com/DikshaYadav/" style="text-decoration: none; color: #FF6F61;">
-    🧩 <b>LeetCode</b>: Enhancing my problem-solving skills by tackling algorithm and data structure problems.
-  </a>
-  <a href="https://www.codingninjas.com/codestudio/profile/43110d67-4913-43c7-a24e-485e7279d3eb" style="text-decoration: none; color: #007ACC;">
-    🧑‍🏫 <b>Coding Ninjas</b>: Deepening my understanding through courses and practice problems.
-  </a>
-  <a href="https://www.onlinegdb.com/users/diksha_yadav" style="text-decoration: none; color: #4CAF50;">
-    🖥️ <b>OnlineGDB Compiler</b>: Experimenting with code snippets and exploring new programming concepts.
-  </a>
-</div>
+- 🧩 **LeetCode**: Enhancing my problem-solving skills by tackling algorithm and data structure problems. [Visit my profile](https://leetcode.com/DikshaYadav/).
+- 🧑‍🏫 **Coding Ninjas**: Deepening my understanding through courses and practice problems. [Visit my profile](https://www.codingninjas.com/codestudio/profile/43110d67-4913-43c7-a24e-485e7279d3eb).
+- 🖥️ **OnlineGDB Compiler**: Experimenting with code snippets and exploring new programming concepts. [Visit my profile](https://www.onlinegdb.com/users/diksha_yadav).
 
 ---
 
@@ -67,7 +57,7 @@ I actively engage with coding challenges and projects on various platforms to sh
 
 I’m always eager to connect with fellow developers, learn from others, and explore new opportunities. Let’s connect!
 
-<div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
+<p align="center">
   <a href="https://www.linkedin.com/in/diksha-yadav-32b733220" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
   </a>
@@ -77,7 +67,7 @@ I’m always eager to connect with fellow developers, learn from others, and exp
   <a href="mailto:dikshapup19@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Mail-red?style=for-the-badge&logo=gmail" alt="Email Badge">
   </a>
-</div>
+</p>
 
 ---
 
@@ -103,10 +93,10 @@ Explore some of my key projects and contributions:
 
 Here’s a snapshot of my GitHub activity and contributions:
 
-<div style="display: flex; justify-content: space-around;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diksha-yadav-19&show_icons=true&theme=radical" alt="Diksha's GitHub Stats" width="45%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diksha-yadav-19&layout=compact&theme=radical" alt="Top Languages" width="45%">
-</div>
+</p>
 
 ---
 
