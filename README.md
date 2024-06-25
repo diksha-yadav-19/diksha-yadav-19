@@ -30,7 +30,7 @@ Focused on **MERN Stack** development, where I:
 
 ### 🚀 Core Team Member at GDSC, PUP
 Contributed to the **Google Developer Student Clubs** by:
-- Organizing and leading tech workshops and hackathons.
+- Organizing and leading tech workshops and participated in GDG Jalandhar hackathon.
 - Mentoring peers in coding and project development.
 - Fostering a collaborative community of tech enthusiasts.
 
