@@ -4,14 +4,14 @@
 
 Hello! I'm **Diksha Yadav**, a dedicated and versatile developer with a deep-seated passion for creating innovative software solutions and exploring cutting-edge technologies. My journey in tech spans from building robust full-stack web applications to diving into the intricacies of Python and Machine Learning.
 
-<!-- Highlighting Skills without Marquee -->
-<p align="center">
-  <strong style="font-size: 18px; color: #4CAF50;">I'm a Frontend Developer | Backend Developer | Python and ML Enthusiast</strong>
-</p>
+---
 
-- 💻 **Current Focus**: Mastering Python and its expansive ecosystem, refining my skills in machine learning, and developing innovative projects.
-- 📖 **Learning Journey**: Transitioning from Full Stack Web Development (MERN stack) to Python programming and its diverse applications.
-- 🎯 **Career Goals**: To utilize my broad skill set in meaningful projects, contribute to open-source communities, and commit to continuous learning and professional growth.
+## 🎯 Skills
+
+### 💻 Technical Skills
+- **Frontend Development**: HTML, CSS, JavaScript, React.js
+- **Backend Development**: Node.js, Express.js, MongoDB
+- **Python and Machine Learning**: NumPy, Pandas, Scikit-learn
 
 ---
 
@@ -27,7 +27,6 @@ Specialized in **Node.js Full Stack** development, where I:
 Focused on **MERN Stack** development, where I:
 - Developed full-stack web applications utilizing MongoDB, Express.js, React, and Node.js.
 - Implemented RESTful APIs and dynamic user interfaces.
-- Applied agile methodologies and worked in sprints to deliver project milestones efficiently.
 
 ### 🚀 Core Team Member at GDSC, PUP
 Contributed to the **Google Developer Student Clubs** by:
