@@ -46,9 +46,17 @@ Played a pivotal role in the **Placement Club** by:
 
 I actively engage with coding challenges and projects on various platforms to sharpen my skills and stay updated with the latest in technology:
 
-- 🧩 **LeetCode**: Enhancing my problem-solving skills by tackling algorithm and data structure problems. [Visit my profile](https://leetcode.com/DikshaYadav/).
-- 🧑‍🏫 **Coding Ninjas**: Deepening my understanding through courses and practice problems. [Visit my profile](https://www.codingninjas.com/codestudio/profile/43110d67-4913-43c7-a24e-485e7279d3eb).
-- 🖥️ **OnlineGDB Compiler**: Experimenting with code snippets and exploring new programming concepts. [Visit my profile](https://www.onlinegdb.com/users/diksha_yadav).
+- 🧩 **LeetCode**: Enhancing my problem-solving skills by tackling algorithm and data structure problems.
+  <br>
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Visit-ff69b4?style=for-the-badge&logo=leetcode)](https://leetcode.com/DikshaYadav/)
+  
+- 🧑‍🏫 **Coding Ninjas**: Deepening my understanding through courses and practice problems.
+  <br>
+  [![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-Explore-00bfa5?style=for-the-badge&logo=codingninjas)](https://www.codingninjas.com/codestudio/profile/43110d67-4913-43c7-a24e-485e7279d3eb)
+  
+- 🖥️ **OnlineGDB Compiler**: Experimenting with code snippets and exploring new programming concepts.
+  <br>
+  [![OnlineGDB](https://img.shields.io/badge/OnlineGDB-Try%20it%20out-2ECC71?style=for-the-badge&logo=onlinegdb)](https://www.onlinegdb.com/users/diksha_yadav)
 
 ---
 
@@ -122,5 +130,6 @@ Looking forward to connecting with you!
 <p align="center">
   Made with ❤️ by Diksha Yadav
 </p>
+
 
 
