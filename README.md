@@ -96,14 +96,15 @@ Explore some of my key projects and contributions:
 
 ---
 
-## 🔥 GitHub Stats
+## ## 🔥 GitHub Stats
 
 Here’s a snapshot of my GitHub activity and contributions:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diksha-yadav-19&show_icons=true&theme=radical" alt="Diksha's GitHub Stats" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diksha-yadav-19&layout=compact&theme=radical" alt="Top Languages" width="45%">
+  <img src="https://your-vercel-instance.vercel.app/api?username=diksha-yadav-19&show_icons=true&theme=radical" alt="Diksha's GitHub Stats" width="45%">
+  <img src="https://your-vercel-instance.vercel.app/api/top-langs/?username=diksha-yadav-19&layout=compact&theme=radical" alt="Top Languages" width="45%">
 </p>
+
 
 ---
 
