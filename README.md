@@ -94,17 +94,6 @@ Explore some of my key projects and contributions:
 - 🌐 **[MERN Stack Projects](https://github.com/diksha-yadav-19/BookNook_MERN.git)**: A collection of full-stack web applications developed using the MERN stack (MongoDB, Express.js, React, Node.js).
 - 🐍 **[Python Projects](https://github.com/diksha-yadav-19/Crop_Recommendation/tree/master)**: My journey through Python, featuring a range of projects from basic scripts to complex applications.
 
----
-
-## ## 🔥 GitHub Stats
-
-Here’s a snapshot of my GitHub activity and contributions:
-
-<p align="center">
-  <img src="https://your-vercel-instance.vercel.app/api?username=diksha-yadav-19&show_icons=true&theme=radical" alt="Diksha's GitHub Stats" width="45%">
-  <img src="https://your-vercel-instance.vercel.app/api/top-langs/?username=diksha-yadav-19&layout=compact&theme=radical" alt="Top Languages" width="45%">
-</p>
-
 
 ---
 
