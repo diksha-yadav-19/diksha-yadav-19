@@ -48,15 +48,15 @@ I actively engage with coding challenges and projects on various platforms to sh
 
 - 🧩 **LeetCode**: Enhancing my problem-solving skills by tackling algorithm and data structure problems.
   <br>
-  [![LeetCode](https://img.shields.io/badge/LeetCode-Visit-ff69b4?style=for-the-badge&logo=leetcode)](https://leetcode.com/DikshaYadav/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Visit-ff69b4?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/dikshapup19/)
   
 - 🧑‍🏫 **Coding Ninjas**: Deepening my understanding through courses and practice problems.
   <br>
-  [![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-Explore-00bfa5?style=for-the-badge&logo=codingninjas)](https://www.codingninjas.com/codestudio/profile/43110d67-4913-43c7-a24e-485e7279d3eb)
+  [![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-Explore-00bfa5?style=for-the-badge&logo=codingninjas)](https://www.naukri.com/code360/profile/4a168f37-2e92-4d81-831c-6fdd8a307a8c)
   
 - 🖥️ **OnlineGDB Compiler**: Experimenting with code snippets and exploring new programming concepts.
   <br>
-  [![OnlineGDB](https://img.shields.io/badge/OnlineGDB-Try%20it%20out-2ECC71?style=for-the-badge&logo=onlinegdb)](https://www.onlinegdb.com/users/diksha_yadav)
+  [![OnlineGDB](https://img.shields.io/badge/OnlineGDB-Try%20it%20out-2ECC71?style=for-the-badge&logo=onlinegdb)](https://www.onlinegdb.com/myfiles/s6VqsbXKU)
 
 ---
 
@@ -91,8 +91,8 @@ Curious to see how many people have visited my profile? Here’s the count:
 Explore some of my key projects and contributions:
 
 - 🚀 **[C/C++](https://github.com/diksha-yadav-19/C-CPP)**: A repository of C and C++ examples, templates, and code snippets.
-- 🌐 **[MERN Stack Projects](https://github.com/diksha-yadav-19/Chat_Application)**: A collection of full-stack web applications developed using the MERN stack (MongoDB, Express.js, React, Node.js).
-- 🐍 **[Python Projects](https://github.com/diksha-yadav-19/python-projects)**: My journey through Python, featuring a range of projects from basic scripts to complex applications.
+- 🌐 **[MERN Stack Projects](https://github.com/diksha-yadav-19/BookNook_MERN.git)**: A collection of full-stack web applications developed using the MERN stack (MongoDB, Express.js, React, Node.js).
+- 🐍 **[Python Projects](https://github.com/diksha-yadav-19/Crop_Recommendation/tree/master)**: My journey through Python, featuring a range of projects from basic scripts to complex applications.
 
 ---
 
