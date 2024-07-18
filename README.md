@@ -105,6 +105,17 @@ I take pride in my milestones and achievements on GitHub:
 
 ---
 
+## ## 🔥 GitHub Stats
+
+Here’s a snapshot of my GitHub activity and contributions:
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github-readme-stats.vercel.app/api?username=diksha-yadav-19&show_icons=true&theme=radical" alt="Diksha's GitHub Stats" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diksha-yadav-19&layout=compact&theme=radical" alt="Top Languages" width="45%">
+</div>
+
+---
+
 ## 📫 Get in Touch
 
 I’m open to discussions, collaborations, and opportunities. Feel free to reach out to me:
