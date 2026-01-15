@@ -14,9 +14,9 @@ DevOps Engineer focused on automation and cloud technologies for efficient, scal
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
-### 💻 Technical Skills
+###  Technical Skills
 - **DevOps & CI/CD**: Azure DevOps, CI/CD Pipeline Automation  
 - **Containers & Orchestration**: Docker, Kubernetes  
 - **Cloud & Infrastructure as Code**: Microsoft Azure, Terraform  
@@ -27,7 +27,7 @@ DevOps Engineer focused on automation and cloud technologies for efficient, scal
 
 ---
 
-### 🧰 Languages & Tools
+###  Languages & Tools
 ![My Skills](https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,nginx,linux,bash,python,git,mysql)
 
 ---
@@ -39,10 +39,9 @@ DevOps Engineer focused on automation and cloud technologies for efficient, scal
 - Managing cloud infrastructure using **Terraform (Infrastructure as Code)**  
 - Automating operational workflows using **Bash and Python**  
 - Working in **Linux-based environments** to support reliable systems  
-
 ---
 
-## 💻 Coding Practice
+##  Coding Practice
 
 I actively practice problem-solving and system thinking to strengthen my engineering fundamentals:
 
@@ -56,7 +55,7 @@ I actively practice problem-solving and system thinking to strengthen my enginee
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 I enjoy connecting with engineers, sharing knowledge, and exploring opportunities in DevOps & Cloud.
 
@@ -67,15 +66,6 @@ I enjoy connecting with engineers, sharing knowledge, and exploring opportunitie
   <a href="mailto:dikshapup19@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diksha-yadav-19&show_icons=true&theme=default" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diksha-yadav-19&layout=compact&theme=default" width="45%" />
 </p>
 
 ---
