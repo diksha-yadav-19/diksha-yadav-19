@@ -7,9 +7,8 @@
     alt="image"
     width="480"
   />
+  
 </p>
-
-## About Me
 
 <p align="center">
   <strong>DevOps Engineer focused on automation and cloud technologies for efficiency.</strong>
@@ -17,12 +16,22 @@
 
 ---
 
-## 🎯 Skills
+##  Skills
 
 ### 💻 Technical Skills
-- **Frontend Development**: HTML, CSS, JavaScript, React.js
-- **Backend Development**: Node.js, Express.js, MongoDB
-- **Python and Machine Learning**: NumPy, Pandas, Scikit-learn
+- **DevOps & CI/CD**: Azure DevOps, CI/CD Pipeline Automation
+- **Containers & Orchestration**: Docker, Kubernetes
+- **Cloud & IaC**: Cloud Infrastructure, Terraform
+- **Automation & Scripting**: Python, Shell Scripting
+- **Systems & Tools**: Git, Linux
+
+**Additional Skills**: Python, SQL, MongoDB, Node.js, React.js, C++, Data Structures
+
+### 🧰 Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,nginx,linux,bash,python,git,mysql&perline=6" />
+</p>
+
 
 ---
 
