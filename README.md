@@ -1,6 +1,7 @@
-# 👋 Welcome to My GitHub Profile!
 
-## 🙋‍♀️ About Me
+# Hey Everyone 👋, I'm Diksha Yadav
+
+## About Me
 
 Hello! I'm **Diksha Yadav**, a dedicated and versatile developer with a deep-seated passion for creating innovative software solutions and exploring cutting-edge technologies. My journey in tech spans from building robust full-stack web applications to diving into the intricacies of Python and Machine Learning.
 
