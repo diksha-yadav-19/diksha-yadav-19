@@ -1,7 +1,13 @@
 
 # <h1 align="center">Hey Everyone 👋, I'm Diksha Yadav</h1>
 
-<img width="296" height="170" alt="image" src="https://github.com/user-attachments/assets/eb380b9e-9e21-43ee-9286-6ba622435dc5" />
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/eb380b9e-9e21-43ee-9286-6ba622435dc5" 
+    alt="image"
+    width="480"
+  />
+</p>
 
 ## About Me
 
