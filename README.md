@@ -18,7 +18,7 @@
 
 ##  Skills
 
-### 💻 Technical Skills
+### Technical Skills
 - **DevOps & CI/CD**: Azure DevOps, CI/CD Pipeline Automation
 - **Containers & Orchestration**: Docker, Kubernetes
 - **Cloud & IaC**: Cloud Infrastructure, Terraform
@@ -27,10 +27,9 @@
 
 **Additional Skills**: Python, SQL, MongoDB, Node.js, React.js, C++, Data Structures
 
-### 🧰 Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,nginx,linux,bash,python,git,mysql&perline=6" />
-</p>
+### Languages & Tools
+![My Skills](https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,nginx,linux,bash,python,git,mysql)
+
 
 
 ---
