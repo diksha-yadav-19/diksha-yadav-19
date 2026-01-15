@@ -57,6 +57,6 @@ I enjoy connecting with engineers, sharing knowledge, and exploring opportunitie
 ---
 
 <p align="center">
-Helping teams build reliable systems through automation, cloud, and DevOps best practices.
+DevOps is not a goal, but a never-ending process of continual improvement
 </p>
 
