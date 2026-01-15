@@ -41,20 +41,6 @@ DevOps Engineer focused on automation and cloud technologies for efficient, scal
 - Working in **Linux-based environments** to support reliable systems  
 ---
 
-##  Coding Practice
-
-I actively practice problem-solving and system thinking to strengthen my engineering fundamentals:
-
-- **LeetCode** – Improving problem-solving skills with DSA challenges  
-  <br>
-  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/dikshapup19/)
-
-- **Coding Ninjas (Code360)** – Practicing core CS concepts  
-  <br>
-  [![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-Profile-00bfa5?style=for-the-badge&logo=codingninjas)](https://www.naukri.com/code360/profile/4a168f37-2e92-4d81-831c-6fdd8a307a8c)
-
----
-
 ##  Connect With Me
 
 I enjoy connecting with engineers, sharing knowledge, and exploring opportunities in DevOps & Cloud.
