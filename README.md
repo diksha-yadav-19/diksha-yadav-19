@@ -32,7 +32,7 @@ DevOps Engineer focused on automation and cloud technologies for efficient, scal
 
 ---
 
-## 🚀 DevOps Experience
+## Professional Experience
 
 - Working with **Docker and Kubernetes** for containerized application deployments  
 - Building and maintaining **CI/CD pipelines** using Azure DevOps  
@@ -74,6 +74,3 @@ I enjoy connecting with engineers, sharing knowledge, and exploring opportunitie
 Helping teams build reliable systems through automation, cloud, and DevOps best practices.
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/diksha-yadav-19/count.svg" />
-</p>
