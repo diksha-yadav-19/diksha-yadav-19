@@ -1,9 +1,13 @@
 
-# Hey Everyone 👋, I'm Diksha Yadav
+# <h1 align="center">Hey Everyone 👋, I'm Diksha Yadav</h1>
+
+<img width="296" height="170" alt="image" src="https://github.com/user-attachments/assets/eb380b9e-9e21-43ee-9286-6ba622435dc5" />
 
 ## About Me
 
-Hello! I'm **Diksha Yadav**, a dedicated and versatile developer with a deep-seated passion for creating innovative software solutions and exploring cutting-edge technologies. My journey in tech spans from building robust full-stack web applications to diving into the intricacies of Python and Machine Learning.
+<p align="center">
+  <strong>DevOps Engineer focused on automation and cloud technologies for efficiency.</strong>
+</p>
 
 ---
 
