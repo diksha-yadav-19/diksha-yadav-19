@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/de99ea83-ed5d-4513-8274-1eed7a356146" 
+    src="https://github.com/user-attachments/assets/05f1a4b5-9b8e-403d-8e36-39c5849636e8"
     alt="DevOps Banner"
     width="460"
   />
